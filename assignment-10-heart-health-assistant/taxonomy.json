@@ -1,0 +1,42 @@
+{
+  "Understanding heart health": {
+    "basics": [
+      "heart anatomy",
+      "blood circulation"
+    ],
+    "risk": [
+      "inherited factors",
+      "modifiable factors"
+    ]
+  },
+  "Everyday prevention": {
+    "nutrition": [
+      "whole foods",
+      "sodium awareness"
+    ],
+    "activity": [
+      "aerobic movement",
+      "less sedentary time"
+    ]
+  },
+  "Screening and symptoms": {
+    "screening": [
+      "blood pressure",
+      "cholesterol"
+    ],
+    "symptoms": [
+      "non-emergency concerns",
+      "urgent warning signs"
+    ]
+  },
+  "Care and support": {
+    "prevention": [
+      "sleep and stress",
+      "tobacco avoidance"
+    ],
+    "recovery": [
+      "care plans",
+      "cardiac rehabilitation"
+    ]
+  }
+}

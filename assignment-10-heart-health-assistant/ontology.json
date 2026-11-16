@@ -1,0 +1,78 @@
+{
+  "concepts": [
+    "heart",
+    "arteries",
+    "blood_pressure",
+    "cholesterol",
+    "physical_activity",
+    "nutrition",
+    "sleep",
+    "cardiovascular_risk",
+    "screening",
+    "healthcare_professional",
+    "cardiac_rehabilitation",
+    "symptoms"
+  ],
+  "relationships": [
+    {
+      "subject": "heart",
+      "predicate": "pumps_blood_into",
+      "object": "arteries"
+    },
+    {
+      "subject": "blood_pressure",
+      "predicate": "describes_pressure_in",
+      "object": "arteries"
+    },
+    {
+      "subject": "cholesterol",
+      "predicate": "may_affect",
+      "object": "cardiovascular_risk"
+    },
+    {
+      "subject": "nutrition",
+      "predicate": "can_support",
+      "object": "heart"
+    },
+    {
+      "subject": "physical_activity",
+      "predicate": "can_support",
+      "object": "heart"
+    },
+    {
+      "subject": "sleep",
+      "predicate": "can_support",
+      "object": "heart"
+    },
+    {
+      "subject": "screening",
+      "predicate": "can_check",
+      "object": "blood_pressure"
+    },
+    {
+      "subject": "screening",
+      "predicate": "can_check",
+      "object": "cholesterol"
+    },
+    {
+      "subject": "healthcare_professional",
+      "predicate": "can_assess",
+      "object": "symptoms"
+    },
+    {
+      "subject": "cardiovascular_risk",
+      "predicate": "can_be_reviewed_during",
+      "object": "screening"
+    },
+    {
+      "subject": "healthcare_professional",
+      "predicate": "can_recommend",
+      "object": "cardiac_rehabilitation"
+    },
+    {
+      "subject": "cardiac_rehabilitation",
+      "predicate": "supports_recovery_for",
+      "object": "heart"
+    }
+  ]
+}

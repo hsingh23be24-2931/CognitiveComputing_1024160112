@@ -1,0 +1,65 @@
+text,intent
+what does the heart do,heart_basics
+explain how the heart works,heart_basics
+what is cardiovascular health,heart_basics
+tell me about the heart,heart_basics
+what are arteries and veins,heart_basics
+explain blood circulation,heart_basics
+why is the heart important,heart_basics
+describe the role of the heart,heart_basics
+what increases heart disease risk,heart_risk
+which factors affect heart health,heart_risk
+can smoking increase heart risks,heart_risk
+how can family history affect heart health,heart_risk
+is high cholesterol a risk factor,heart_risk
+does high blood pressure affect the heart,heart_risk
+what is a cardiovascular risk factor,heart_risk
+what lifestyle factors raise heart disease risk,heart_risk
+what foods support heart health,heart_food
+tell me about a heart healthy diet,heart_food
+should i choose whole grains for heart health,heart_food
+how do vegetables help heart health,heart_food
+what is a heart friendly meal,heart_food
+what foods contain healthy unsaturated fats,heart_food
+why reduce excess salt intake,heart_food
+how can diet support healthy blood pressure,heart_food
+how does exercise benefit the heart,heart_activity
+what physical activity is good for heart health,heart_activity
+does walking help cardiovascular health,heart_activity
+can regular movement support heart health,heart_activity
+why should i avoid sitting all day,heart_activity
+tell me the benefits of aerobic exercise,heart_activity
+how can beginners be more physically active,heart_activity
+does exercise help blood pressure,heart_activity
+how can i protect heart health,heart_prevention
+give tips for preventing cardiovascular disease,heart_prevention
+what healthy habits help the heart,heart_prevention
+how does sleep affect heart health,heart_prevention
+why is stress management important for the heart,heart_prevention
+how do regular checkups support heart health,heart_prevention
+what are practical heart wellness habits,heart_prevention
+how does avoiding tobacco help the heart,heart_prevention
+what is a blood pressure check,heart_screening
+why are cholesterol tests useful,heart_screening
+what heart health screenings exist,heart_screening
+when should i ask about cardiovascular checkups,heart_screening
+what does a blood pressure reading mean,heart_screening
+why do doctors measure cholesterol,heart_screening
+what is a heart health assessment,heart_screening
+which routine checks help monitor heart health,heart_screening
+what symptoms should be assessed by a doctor,heart_symptoms
+what are warning signs of a possible heart problem,heart_symptoms
+should unusual chest discomfort be checked,heart_symptoms
+what should i do for unexplained shortness of breath,heart_symptoms
+can a healthcare professional assess palpitations,heart_symptoms
+what if i feel repeated dizziness,heart_symptoms
+why should i report new chest symptoms,heart_symptoms
+when should i consult a clinician for heart symptoms,heart_symptoms
+how can someone follow a heart care plan,heart_recovery
+what is cardiac rehabilitation,heart_recovery
+how can patients prepare for follow up appointments,heart_recovery
+why should i follow prescribed heart care advice,heart_recovery
+what does recovery support after heart treatment include,heart_recovery
+how do i track questions for my cardiologist,heart_recovery
+why is a care team important after heart illness,heart_recovery
+what are general cardiac rehab goals,heart_recovery
